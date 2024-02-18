@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <ExampleComponent />
+    <i class="fa-solid fa-circle-exclamation"></i>
   </div>
 </template>
 
