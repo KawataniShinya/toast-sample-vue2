@@ -8,7 +8,7 @@ Vue.config.productionTip = false
 
 Vue.use(Toasted, {
   position: 'bottom-right',
-  duration: 500000,
+  duration: 5000,
   type: 'info',
   theme: 'toasted-primary',
   iconPack : 'fontawesome',
